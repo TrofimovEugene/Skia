@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skia.Android", "Skia.Android\Skia.Android.csproj", "{5CC22B47-A275-4FBA-A422-477EF7E47C2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skia", "Skia\Skia.csproj", "{77134B76-07A1-469A-8A79-969951951757}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CC22B47-A275-4FBA-A422-477EF7E47C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC22B47-A275-4FBA-A422-477EF7E47C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC22B47-A275-4FBA-A422-477EF7E47C2F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5CC22B47-A275-4FBA-A422-477EF7E47C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC22B47-A275-4FBA-A422-477EF7E47C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC22B47-A275-4FBA-A422-477EF7E47C2F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{77134B76-07A1-469A-8A79-969951951757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77134B76-07A1-469A-8A79-969951951757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77134B76-07A1-469A-8A79-969951951757}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{77134B76-07A1-469A-8A79-969951951757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77134B76-07A1-469A-8A79-969951951757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77134B76-07A1-469A-8A79-969951951757}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0009C42-C3B8-4A69-B65F-7C8784B93DEB}
+	EndGlobalSection
+EndGlobal
